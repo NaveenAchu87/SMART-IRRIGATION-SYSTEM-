@@ -1,6 +1,7 @@
 Abstract
-The Arduino-based Voltage and Current Monitoring System is designed to measure and display voltage and current levels in an electrical circuit. 
-This project utilizes an Arduino board, a SIM800L GSM module, and an I2C LCD display. 
-The system reads voltage through a voltage divider circuit and current through an analog input, displaying the values on the LCD. 
-Additionally, it features an alert mechanism that sends an SMS and initiates a phone call when voltage exceeds a specified threshold, ensuring timely notifications for critical situations.
-This project aims to provide a reliable, real-time monitoring solution for electrical parameters, enhancing safety and efficiency in various applications.
+The Smart Irrigation System is an Arduino-based solution designed to automate the process of soil moisture monitoring and irrigation control. 
+This project leverages an Arduino board, a soil moisture sensor, and a motor pump to ensure optimal soil moisture levels are maintained. 
+An additional Processing-based graphical interface allows for easy control and monitoring of the pump status. 
+The system automatically activates the pump when soil moisture falls below a certain threshold and deactivates it when the moisture level is sufficient. 
+Additionally, users can manually enable or disable the pump through a graphical interface. 
+This project aims to optimize water usage in irrigation, promoting efficient and sustainable agricultural practices.
