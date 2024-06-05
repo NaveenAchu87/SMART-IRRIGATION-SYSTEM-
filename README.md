@@ -5,15 +5,22 @@ A Processing-based graphical interface allows for manual control and monitoring 
 
 Components
 ^Arduino board (e.g., Arduino Uno)
+
 ^Soil moisture sensor
+
 ^Relay module or MOSFET for pump control
+
 ^Water pump
+
 ^Processing software for graphical interface
+
 ^Jumper wires
+
 ^Circuit Diagram
 
 Setup Instructions
 Hardware Setup
+
 ^Connect the Soil Moisture Sensor:
 
 Connect the sensor's analog output to the Arduino analog input pin A2.
