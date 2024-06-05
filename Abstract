@@ -1,0 +1,6 @@
+Abstract
+The Arduino-based Voltage and Current Monitoring System is designed to measure and display voltage and current levels in an electrical circuit. 
+This project utilizes an Arduino board, a SIM800L GSM module, and an I2C LCD display. 
+The system reads voltage through a voltage divider circuit and current through an analog input, displaying the values on the LCD. 
+Additionally, it features an alert mechanism that sends an SMS and initiates a phone call when voltage exceeds a specified threshold, ensuring timely notifications for critical situations.
+This project aims to provide a reliable, real-time monitoring solution for electrical parameters, enhancing safety and efficiency in various applications.
