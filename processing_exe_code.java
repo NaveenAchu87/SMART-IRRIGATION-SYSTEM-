@@ -49,4 +49,4 @@ void serialEvent(Serial myPort) {
   if (input != null) {
     println("Received: " + input.trim()); // Debug print to see the received data
   }
-}S
+}
